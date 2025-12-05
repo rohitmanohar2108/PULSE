@@ -1,13 +1,5 @@
 # PULSE
-## Team
-### Mentors
-- Konatham Nagamukesh
-- Vishal Kamath
-- Hayden Soares
-### Mentees
-- H S Jayanth
-- Raunil Singh
-- Dev Prajapati
+
 
 ## Aim
 To design and implement a modular voice-based assistant capable of performing automation tasks, executing context-aware responses using retrieval-augmented generation (RAG), and supporting naturalistic conversation with speech I/O, all tailored for a college environment.
