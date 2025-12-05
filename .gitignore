@@ -1,0 +1,12 @@
+TODO.md
+**/*.env
+pulse
+**/input-docs
+**/vector-store
+**/__pycache__
+**/pulse-rag
+**/test_docs
+**/.last_processed
+**/data
+**/vector_store
+venv/
