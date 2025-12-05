@@ -99,3 +99,5 @@ PULSE demonstrates the feasibility of a robust, real-time AI assistant using spe
 - Bash Agent Contextualization: Include Linux man pages as prompt context
 - Dockerization: Modular containers with REST APIs
 - More Agents: schedule assistant, web query handler, etc.
+
+<!-- Note: small non-functional edit to create commit: Restructure the code -->
